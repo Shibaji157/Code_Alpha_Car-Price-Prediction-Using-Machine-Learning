@@ -7,3 +7,11 @@ __pycache__/
 .DS_Store
 
 .vscode/
+# Environment file
+.env
+
+# Python virtual environment
+venv/
+
+# Ignore React project
+post-composer/
